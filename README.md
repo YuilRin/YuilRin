@@ -1,4 +1,4 @@
-![img](/git.png)
+![img](/git2.png)
 # 👋 Hi there, I’m **Lê Ngọc Duy Linh** (aka **@YuilRin**)
 
 ## About Me  
