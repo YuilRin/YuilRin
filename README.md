@@ -1,10 +1,20 @@
-- 👋 Hi, I’m Lê Ngọc Duy Linh, also known as @YuilRin.
-- 👀 I’m interested in videogame such as Hi3, Hsr, Zzz
-- 🌱 I’m currently learning about computer networks and data communication.
-- 💞️ I’m looking to collaborate on software development projects as I work toward becoming a developer.
-- 📫 How to reach me vulinh922004@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi there, I’m Lê Ngọc Duy Linh (aka @YuilRin)
+- About Me
+- 🎮 Gamer at heart: I’m a fan of games like Honkai Impact 3rd (Hi3), Honkai: Star Rail (HSR), and Zenless Zone Zero (ZZZ).
+- 📘 Aspiring Developer: Currently diving into computer networks and data communication as I work toward my goal of becoming a developer.
+- 💻 Collaborator: Open to teaming up on projects that involve tech, games, or network-related development.
+- 🔧 Technologies & Skills
+- Languages: [add your languages here, e.g., Python, Java]
+- Interests: Network programming, real-time data communication, embedded systems, etc.
+- 💌 How to Reach Me
+- 📧 Email: vulinh922004@gmail.com
+- 💼 LinkedIn: [Your LinkedIn profile link, if available]
+- 🌟 Fun Facts
+- 😄 Pronouns: [he/him, she/her, or they/them]
+- ⚡ Favorite Game Character: [optional - who do you enjoy playing the most?]
+- 🌌 Interesting Tidbit: [mention something unique about your gaming or programming journey]
+- 💡 "Every line of code is a step closer to making something awesome."
+- Feel free to personalize any details, and adding visuals like icons or badges can enhance the appeal even more!
 ![GitHub Snake Animation](https://github.com/YuilRin/YuilRin/blob/output/github-contribution-grid-snake.svg)
 <!---
 YuilRin/YuilRin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
